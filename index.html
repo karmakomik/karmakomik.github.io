@@ -1,30 +1,17 @@
 <!DOCTYPE html>
-<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
-
-   <!--- Basic Page Needs
-   ================================================== -->
-   <meta charset="utf-8">
-	<title>Unni</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
-
-   <!-- Mobile Specific Metas
-   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<!-- CSS
-    ================================================== -->
-   <link rel="stylesheet" href="css/default.css">
-   <link rel="stylesheet" href="css/layout.css">
-   <link rel="stylesheet" href="css/media-queries.css">
-   <link rel="stylesheet" href="css/magnific-popup.css">
-
-   <!-- Script
-   ================================================== -->
-	<script src="js/modernizr.js"></script>
+  <meta charset="utf-8">
+  <title>particles.js</title>
+  <meta name="description" content="Unni Portfolio">
+  <meta name="author" content="Unnikrishnan R" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="css/style.css">
+  <link rel="stylesheet" href="css/default.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/media-queries.css">
+  <link rel="stylesheet" href="css/magnific-popup.css">
+  <script src="js/modernizr.js"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -33,120 +20,151 @@
 
     ga('create', 'UA-83718507-1', 'auto');
     ga('send', 'pageview');
-  </script>
+  </script>  
 
-   <!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="favicon.png" >
+  <link rel="shortcut icon" href="favicon.png" >
 
 </head>
-
 <body>
 
-   <!-- Header
-   ================================================== -->
-   <header id="home">
+<!-- count particles -->
+<!--<div class="count-particles">
+  <span class="js-count-particles">--</span> particles
+</div>-->
 
-      <nav id="nav-wrap">
+<!-- particles.js container -->
+<div id="particles-js"></div>
 
-         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+<!-- scripts -->
+<script src="../particles.js-master/particles.js"></script>
+<script src="js/app.js"></script>
 
-         <ul id="nav" class="nav">
-            <li class="current"><a href="#">Home</a></li>
-            <!--<li><a class="smoothscroll" href="#about">About</a></li>
-	          <li><a class="smoothscroll" href="#resume">Resume</a></li>-->
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="travel.html">Travel</a></li>
-            <li><a href="about.html">About</a></li>
-         </ul> <!-- end #nav -->
+<!-- Header
+================================================== -->
+<header id="home">
 
-      </nav> <!-- end #nav-wrap -->
+  <nav id="nav-wrap">
 
-      <div class="row banner">
-         <div class="banner-text">
-            <h1 class="responsive-headline">Hi, I'm Unni.</h1>
-            <h3>
-            	<span class="typer" id="some-id" data-delay="100" data-delim=":" data-words="Software Thinkerer at Ammachi Labs: Educational Games Developer : Field Worker" data-colors="white,white,white"></span>
-      			<span class="cursor" data-cursorDisplay="_" data-owner="some-id"></span>
-            <!--I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-            effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
-            and learn more <a class="smoothscroll" href="#about">about me</a>.-->
-            </h3>
-            <hr />
-            <ul class="social">
-				<li><a href="https://twitter.com/karmakomik"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://in.linkedin.com/in/unnikrishnanr"><i class="fa fa-linkedin"></i></a></li>
-				<li><a href="https://www.researchgate.net/profile/Unnikrishnan_Radhakrishnan2"><i class="fa fa-university"></i></a></li>
-				<li><a href="https://github.com/karmakomik" class="fa fa-github"></a></li>				
-				<li>
-					<script language="javascript">
-						var username = "unni.r.krishnan";
-						var hostname = "gmail.com";
-						var linktext = username + "@" + hostname ;
-						document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'" + linktext + " class=\"fa fa-envelope-o\"></a>");
-					</script>
-					<!--<a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a>-->
-				</li>  
-				<li><a href="https://soundcloud.com/karmakomik/tracks"> <i class="fa fa-soundcloud"></i></a></li>             
-            </ul>
-         </div>
-      </div>
+     <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+    <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
-   </header> <!-- Header End -->
+     <ul id="nav" class="nav">
+        <li class="current"><a href="#">Home</a></li>
+        <!--<li><a class="smoothscroll" href="#about">About</a></li>
+        <li><a class="smoothscroll" href="#resume">Resume</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="travel.html">Travel</a></li>-->
+        <li><a href="about.html">About</a></li>
+     </ul> <!-- end #nav -->
+
+  </nav> <!-- end #nav-wrap -->
+
+  <div class="row banner">
+     <div class="banner-text">
+        <!--<h1 class="responsive-headline">Hi, I'm Unni.</h1>-->
+        <h3>
+         <!-- <span class="typer" id="some-id" data-delay="100" data-delim=":" data-words="Software Thinkerer at Ammachi Labs: Educational Games Developer : Field Worker" data-colors="white,white,white"></span>
+        <span class="cursor" data-cursorDisplay="_" data-owner="some-id"></span>-->
+        Hello, I'm Unni, a <span>game developer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
+        effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
+        and learn more <a class="smoothscroll" href="#about">about me</a>.
+        </h3>
+        <hr />
+        <ul class="social">
+    <li><a href="https://twitter.com/karmakomik"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://in.linkedin.com/in/unnikrishnanr"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://www.researchgate.net/profile/Unnikrishnan_Radhakrishnan2"><i class="fa fa-university"></i></a></li>
+    <li><a href="https://github.com/karmakomik" class="fa fa-github"></a></li>        
+    <li>
+      <script language="javascript">
+        var username = "unni.r.krishnan";
+        var hostname = "gmail.com";
+        var linktext = username + "@" + hostname ;
+        document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'" + linktext + " class=\"fa fa-envelope-o\"></a>");
+      </script>
+      <!--<a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a>-->
+    </li>  
+    <li><a href="https://soundcloud.com/karmakomik/tracks"> <i class="fa fa-soundcloud"></i></a></li>             
+        </ul>
+     </div>
+  </div>
+
+</header> <!-- Header End -->
 
 
-   <!-- footer
-   ================================================== -->
-   <footer>
+<!-- footer
+================================================== -->
+<!--<footer>
 
-      <div class="row">
+  <div class="row">
 
-         <div class="twelve columns">
+     <div class="twelve columns">
 
-            <ul class="social-links">
-				<li><a href="https://twitter.com/karmakomik"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://in.linkedin.com/in/unnikrishnanr"><i class="fa fa-linkedin"></i></a></li>
-				<li><a href="https://www.researchgate.net/profile/Unnikrishnan_Radhakrishnan2"><i class="fa fa-university"></i></a></li>
-				<li><a href="https://github.com/karmakomik" class="fa fa-github"></a></li>				
-				<li>
-					<script language="javascript">
-						var username = "unni.r.krishnan";
-						var hostname = "gmail.com";
-						var linktext = username + "@" + hostname ;
-						document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'" + linktext + " class=\"fa fa-envelope-o\"></a>");
-					</script>
-					<!--<a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a>-->
-				</li>  
-				<li><a href="https://soundcloud.com/karmakomik/tracks" class="fa fa-soundcloud"></a></li>             
-            </ul>            
+        <ul class="social-links">
+    <li><a href="https://twitter.com/karmakomik"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://in.linkedin.com/in/unnikrishnanr"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://www.researchgate.net/profile/Unnikrishnan_Radhakrishnan2"><i class="fa fa-university"></i></a></li>
+    <li><a href="https://github.com/karmakomik" class="fa fa-github"></a></li>        
+    <li>
+      <script language="javascript">
+        var username = "unni.r.krishnan";
+        var hostname = "gmail.com";
+        var linktext = username + "@" + hostname ;
+        document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'" + linktext + " class=\"fa fa-envelope-o\"></a>");
+      </script>-->
+      <!--<a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a>-->
+    <!--</li>  
+    <li><a href="https://soundcloud.com/karmakomik/tracks" class="fa fa-soundcloud"></a></li>             
+        </ul>            
 
-            <ul class="copyright">
-               <li>&copy; Unnikrishnan R</li>
-               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
-            </ul>
+        <ul class="copyright">
+           <li>&copy; Unnikrishnan R</li>
+           <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
+        </ul>
 
-         </div>
+     </div>
 
-         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+     <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
 
-      </div>
+  </div>
 
-   </footer> <!-- Footer End-->
+</footer>--> <!-- Footer End-->
 
-   <!-- Java Script
-   ================================================== -->
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
-   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+<!-- Java Script
+================================================== -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 
-   <script src="js/jquery.flexslider.js"></script>
-   <script src="js/waypoints.js"></script>
-   <script src="js/jquery.fittext.js"></script>
-   <script src="js/magnific-popup.js"></script>
-   <script src="js/init.js"></script>
+<script src="js/jquery.flexslider.js"></script>
+<script src="js/waypoints.js"></script>
+<script src="js/jquery.fittext.js"></script>
+<script src="js/magnific-popup.js"></script>
+<script src="js/init.js"></script>
 
-   <script src='js/typer.js'></script> 
+<script src='js/typer.js'></script> 
+
+<!-- stats.js -->
+<!--<script src="js/lib/stats.js"></script>
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>-->
+
 </body>
-
 </html>
