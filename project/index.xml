@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 19:03:19 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 19:03:19 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -88,7 +88,11 @@
       <link>/project/abc/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:43 +0530</pubDate>
       <guid>/project/abc/</guid>
-      <description>&lt;p&gt;
+      <description>
+
+&lt;p&gt;In this game, the players have to sort falling trash into the right bins (organic, soft plastic, hard stuff, paper). The players gain points when the waste is sorted into the right bins and loses points when done wrong.&lt;/p&gt;
+
+
 
 
 
@@ -103,11 +107,12 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;The Kinect sensor/SDK is used to detect the position of the hand&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 
 
 
@@ -124,12 +129,18 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;The player has to finish the task within a minute&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-&lt;/p&gt;
+
+
+&lt;h4 id=&#34;credits&#34;&gt;Credits&lt;/h4&gt;
+
+&lt;p&gt;Unnikrishnan R - Design &amp;amp; Development&lt;/p&gt;
+
+&lt;p&gt;Latheesh Sivadas/Aghila A/Syamlal R - Art&lt;/p&gt;
 </description>
     </item>
     
