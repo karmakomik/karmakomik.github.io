@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unnikrishnan R</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unnikrishnan R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 19:03:19 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Unnikrishnan R</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>TUI for Toilet Location Surveying</title>
+      <link>/project/tangibletoilet/</link>
+      <pubDate>Sat, 26 Oct 2019 19:03:19 +0530</pubDate>
+      <guid>/project/tangibletoilet/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/tan1.gif&#34; &gt;
+
+&lt;img src=&#34;/img/tan1.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/tan2.gif&#34; &gt;
+
+&lt;img src=&#34;/img/tan2.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/tan3.gif&#34; &gt;
+
+&lt;img src=&#34;/img/tan3.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waste Sorting Game</title>
+      <link>/project/abc/</link>
+      <pubDate>Sat, 26 Oct 2019 10:51:43 +0530</pubDate>
+      <guid>/project/abc/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/abc1.gif&#34; &gt;
+
+&lt;img src=&#34;/img/abc1.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/abc2.gif&#34; &gt;
+
+&lt;img src=&#34;/img/abc2.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMBA</title>
+      <link>/project/amba/</link>
+      <pubDate>Sat, 26 Oct 2019 10:51:37 +0530</pubDate>
+      <guid>/project/amba/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/AMBA.gif&#34; &gt;
+
+&lt;img src=&#34;/img/AMBA.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TUI for Spatial Skills</title>
+      <link>/project/carpentrytui/</link>
+      <pubDate>Sat, 26 Oct 2019 10:51:21 +0530</pubDate>
+      <guid>/project/carpentrytui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Interactive Motorcycle</title>
+      <link>/project/xrmotorcycle/</link>
+      <pubDate>Sat, 26 Oct 2019 10:49:21 +0530</pubDate>
+      <guid>/project/xrmotorcycle/</guid>
+      <description>&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/motorcycle.gif&#34; &gt;
+
+&lt;img src=&#34;/img/motorcycle.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;After a few years the project was dusted off the shelf and a team of software engineers who created a virtual reality environment where users learn to identify motorcycle parts through interactive labeling and learn the procedural skills of dismantling the exhaust pipe. Assisted the team in designing the evaluation study for measuring perception and learning gain for a parts label memorization task in virtual reality versus conventional media.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/VRBike.png&#34; &gt;
+
+&lt;img src=&#34;/img/VRBike.png&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pepe : Social robot for encouraging handwashing among children in rural India</title>
+      <link>/project/pepe/</link>
+      <pubDate>Sat, 26 Oct 2019 10:47:17 +0530</pubDate>
+      <guid>/project/pepe/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DBFy3LI890s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;We developed a social robot “Pepe” that encouraged around 100 children to engage in safe and effective handwashing behavior in a rural village in Wayanad,  government Primary School, Kerala, India. The robot was tele-operated by researchers to display behaviours (such as eye movement, speech and expressive mouth) in order to influence children to wash their hands. Pepe gave instructions to children in their local language (Malayalam) to follow the correct handwashing steps via a poster on the wall.
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/spf13.jpg&#34; &gt;
+
+&lt;img src=&#34;/media/spf13.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Steve Francia&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kappa - Tangible Touch Interface Kit</title>
+      <link>/project/kappa/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:46 +0530</pubDate>
+      <guid>/project/kappa/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT&amp;rsquo;s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs&amp;rsquo;s workshops on Computational Thinking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rotary Feedback Haptics</title>
+      <link>/project/chakra/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:35 +0530</pubDate>
+      <guid>/project/chakra/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chakra.gif&#34; &gt;
+
+&lt;img src=&#34;/img/chakra.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>APTAH</title>
+      <link>/project/aptah/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:32 +0530</pubDate>
+      <guid>/project/aptah/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/plane.gif&#34; &gt;
+
+&lt;img src=&#34;/img/plane.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Tablesaw.gif&#34; &gt;
+
+&lt;img src=&#34;/img/Tablesaw.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Haathi Mera Saathi (My Elephant Friend)</title>
+      <link>/project/hms/</link>
+      <pubDate>Sat, 26 Oct 2019 10:45:36 +0530</pubDate>
+      <guid>/project/hms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebar Bending Simulator</title>
+      <link>/project/barbending/</link>
+      <pubDate>Sat, 26 Oct 2019 10:43:43 +0530</pubDate>
+      <guid>/project/barbending/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bar2.gif&#34; &gt;
+
+&lt;img src=&#34;/img/bar2.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Perception of a Social Robot to Promote Hand Washing among Children in a Rural Indian School</title>
+      <link>/publication/unnikrishnan-2019-pepe/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2019-pepe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influencing Hand-washing Behaviour With a Social Robot: HRI Study With School Children in Rural India</title>
+      <link>/publication/amol-2019-pepe/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/amol-2019-pepe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of ICT in Enhancing Scale, Quality, and Reach of TVET in India</title>
+      <link>/publication/balakrishnan-2018-role/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/balakrishnan-2018-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scratching Out Problems: Exploring the Use of Computational Thinking for Social Work in Rural India</title>
+      <link>/publication/anitha-2018-scratching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/anitha-2018-scratching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangible User Interface for Sanitation Education in Rural India: Design and Preliminary Observations</title>
+      <link>/publication/unnikrishnan-2018-tangible/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2018-tangible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual reality learning environments for vocational education: A comparison study with conventional instructional media on knowledge retention.</title>
+      <link>/publication/babu-2018-virtual/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/babu-2018-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serious game on recognizing categories of waste, to support a zero waste recycling program</title>
+      <link>/publication/menon-2017-serious/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menon-2017-serious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Rebar bending training environment with Haptics feedback</title>
+      <link>/publication/menon-2017-virtual/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/menon-2017-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and development of balance training platform and games for people with balance impairments</title>
+      <link>/publication/amritha-2016-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/amritha-2016-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptics enhanced multi-tool virtual interfaces for training carpentry skills</title>
+      <link>/publication/jose-2016-haptics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jose-2016-haptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Of elephants and nested loops: How to introduce computing to youth in rural india</title>
+      <link>/publication/unnikrishnan-2016-elephants/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2016-elephants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do it yourself educational kits for vocational education and training</title>
+      <link>/publication/ranjith-2014-yourself/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ranjith-2014-yourself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptic simulations for training plumbing skills</title>
+      <link>/publication/jose-2014-haptic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/jose-2014-haptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A physiotherapy toolkit using video games and motion tracking technologies</title>
+      <link>/publication/unnikrishnan-2013-physiotherapy/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2013-physiotherapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and evaluation of a Haptic simulator for vocational skill Training and Assessment</title>
+      <link>/publication/akshay-2013-design/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/akshay-2013-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vocational education technology: rural India</title>
+      <link>/publication/bhavani-2010-vocational/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bhavani-2010-vocational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

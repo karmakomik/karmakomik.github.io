@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haptics | Unnikrishnan R</title>
+    <link>/tags/haptics/</link>
+      <atom:link href="/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haptics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 10:46:35 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Haptics</title>
+      <link>/tags/haptics/</link>
+    </image>
+    
+    <item>
+      <title>Rotary Feedback Haptics</title>
+      <link>/project/chakra/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:35 +0530</pubDate>
+      <guid>/project/chakra/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/chakra.gif&#34; &gt;
+
+&lt;img src=&#34;/img/chakra.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>APTAH</title>
+      <link>/project/aptah/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:32 +0530</pubDate>
+      <guid>/project/aptah/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/plane.gif&#34; &gt;
+
+&lt;img src=&#34;/img/plane.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Tablesaw.gif&#34; &gt;
+
+&lt;img src=&#34;/img/Tablesaw.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

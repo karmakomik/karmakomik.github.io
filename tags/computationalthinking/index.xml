@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ComputationalThinking | Unnikrishnan R</title>
+    <link>/tags/computationalthinking/</link>
+      <atom:link href="/tags/computationalthinking/index.xml" rel="self" type="application/rss+xml" />
+    <description>ComputationalThinking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 10:46:46 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ComputationalThinking</title>
+      <link>/tags/computationalthinking/</link>
+    </image>
+    
+    <item>
+      <title>Kappa - Tangible Touch Interface Kit</title>
+      <link>/project/kappa/</link>
+      <pubDate>Sat, 26 Oct 2019 10:46:46 +0530</pubDate>
+      <guid>/project/kappa/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT&amp;rsquo;s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs&amp;rsquo;s workshops on Computational Thinking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Haathi Mera Saathi (My Elephant Friend)</title>
+      <link>/project/hms/</link>
+      <pubDate>Sat, 26 Oct 2019 10:45:36 +0530</pubDate>
+      <guid>/project/hms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

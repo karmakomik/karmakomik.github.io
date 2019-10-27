@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VirtualReality | Unnikrishnan R</title>
+    <link>/tags/virtualreality/</link>
+      <atom:link href="/tags/virtualreality/index.xml" rel="self" type="application/rss+xml" />
+    <description>VirtualReality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 10:49:21 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>VirtualReality</title>
+      <link>/tags/virtualreality/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Interactive Motorcycle</title>
+      <link>/project/xrmotorcycle/</link>
+      <pubDate>Sat, 26 Oct 2019 10:49:21 +0530</pubDate>
+      <guid>/project/xrmotorcycle/</guid>
+      <description>&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/motorcycle.gif&#34; &gt;
+
+&lt;img src=&#34;/img/motorcycle.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;After a few years the project was dusted off the shelf and a team of software engineers who created a virtual reality environment where users learn to identify motorcycle parts through interactive labeling and learn the procedural skills of dismantling the exhaust pipe. Assisted the team in designing the evaluation study for measuring perception and learning gain for a parts label memorization task in virtual reality versus conventional media.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/VRBike.png&#34; &gt;
+
+&lt;img src=&#34;/img/VRBike.png&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
