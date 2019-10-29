@@ -17,7 +17,29 @@
       <link>/project/tangibletoilet/</link>
       <pubDate>Sat, 26 Oct 2019 19:03:19 +0530</pubDate>
       <guid>/project/tangibletoilet/</guid>
-      <description>&lt;p&gt;
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/tangibletoilet.jpg&#34; &gt;
+
+&lt;img src=&#34;/img/tangibletoilet.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;There are two tangible objects, one representing a toilet and the other the soak pit. AR tags placed on top enable tracking of the objects using an overhead camera. Both control the poses of their virtual avatars on the laptop&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;
 
 
 
@@ -32,7 +54,7 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;The facilitator guides the study participant (both hail from the same village) on using the system&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -53,7 +75,7 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Students control the position/orientation of the tangible toilet/soak pit under various scenarios&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -74,7 +96,7 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;The TUI moves intot the background and becomes an enabler of deeper conversations around sanitation between the participants&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
