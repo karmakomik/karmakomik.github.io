@@ -167,11 +167,16 @@
     </item>
     
     <item>
-      <title>AMBA</title>
+      <title>Amrita Balance Trainer</title>
       <link>/project/amba/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:37 +0530</pubDate>
       <guid>/project/amba/</guid>
       <description>
+
+&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
+age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
+
+
 
 
 
@@ -192,6 +197,15 @@
 
 &lt;/figure&gt;
 
+
+&lt;h5 id=&#34;credits&#34;&gt;Credits&lt;/h5&gt;
+
+&lt;p&gt;Unnikrishnan R - Driver Design, Database Design &amp;amp; Game Development&lt;br /&gt;
+Dr Ravi Sankaran - Concept Design, User Studies&lt;br /&gt;
+Harish T Mohan - Hardware Design &amp;amp; Manufacturing&lt;br /&gt;
+Amritha Natarajan - Electronics Design &amp;amp; Development&lt;br /&gt;
+Mahima M Menon - Game Development&lt;br /&gt;
+Namitha K - User Studies, Data Analysis&lt;/p&gt;
 </description>
     </item>
     
@@ -227,73 +241,6 @@
 &lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
 
 &lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms1.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms1_hu2fd582d26a50055de5edb10a15f1e1a5_790371_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms2.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms2_hu835269b9ad3ec6504c4b9c12c7f4f916_907627_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms3.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms3_hu8c8d5a7556c08e5c8a9da0823b982906_247992_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms4.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms4_hud5af3f3577b515af1703c434e29dee56_122725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms5.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms5_hu90cc67fa5c7d821b8d3e6dd4338c6806_451056_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
 </description>
     </item>
     

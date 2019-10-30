@@ -42,7 +42,7 @@
     </item>
     
     <item>
-      <title>APTAH</title>
+      <title>Skill Training &#43; Haptics for Carpentry &amp; Plumbing</title>
       <link>/project/aptah/</link>
       <pubDate>Sat, 26 Oct 2019 10:46:32 +0530</pubDate>
       <guid>/project/aptah/</guid>
@@ -78,6 +78,27 @@
   &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Tablesaw.gif&#34; &gt;
 
 &lt;img src=&#34;/img/Tablesaw.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/file.gif&#34; &gt;
+
+&lt;img src=&#34;/img/file.gif&#34; &gt;
 &lt;/a&gt;
 
 

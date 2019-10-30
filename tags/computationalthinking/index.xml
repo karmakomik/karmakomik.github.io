@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Kappa - Tangible Touch Interface Kit</title>
+      <title>Kappa - Arduino Shield</title>
       <link>/project/kappa/</link>
       <pubDate>Sat, 26 Oct 2019 10:46:46 +0530</pubDate>
       <guid>/project/kappa/</guid>
@@ -59,73 +59,6 @@
 &lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
 
 &lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms1.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms1_hu2fd582d26a50055de5edb10a15f1e1a5_790371_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms2.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms2_hu835269b9ad3ec6504c4b9c12c7f4f916_907627_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms3.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms3_hu8c8d5a7556c08e5c8a9da0823b982906_247992_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms4.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms4_hud5af3f3577b515af1703c434e29dee56_122725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hmspics&#34; href=&#34;/project/hms/hmspics/hms5.jpg&#34; &gt;
-  &lt;img src=&#34;/project/hms/hmspics/hms5_hu90cc67fa5c7d821b8d3e6dd4338c6806_451056_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
 </description>
     </item>
     
