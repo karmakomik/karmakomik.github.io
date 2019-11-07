@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 19:03:19 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 22:47:17 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,9 +13,190 @@
     </image>
     
     <item>
+      <title>Pepe : Social robot</title>
+      <link>/project/pepe/</link>
+      <pubDate>Sat, 26 Oct 2019 22:47:17 +0530</pubDate>
+      <guid>/project/pepe/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DBFy3LI890s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;We developed a social robot “Pepe” that encouraged around 100 children to engage in safe and effective handwashing behavior in a rural village in Wayanad,  government Primary School, Kerala, India. The robot was tele-operated by researchers to display behaviours (such as eye movement, speech and expressive mouth) in order to influence children to wash their hands. Pepe gave instructions to children in their local language (Malayalam) to follow the correct handwashing steps via a poster on the wall.&lt;/p&gt;
+
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+
+&lt;p&gt;Unnikrishnan R - Study Design, Client-Server software, Electronics, Mouth Animation, Deployment&lt;br /&gt;
+Amol Deshmukh - Robot Design, Study Design&lt;br /&gt;
+Shanker Ramesh - Mechanical Design, Study Design, Deployment&lt;br /&gt;
+Sooraj K Babu - Robot Eye Control, Study Design/Logistics, Deployment&lt;br /&gt;
+Parameswari - Deployment&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kappa - Arduino Shield</title>
+      <link>/project/kappa/</link>
+      <pubDate>Sat, 26 Oct 2019 21:46:46 +0530</pubDate>
+      <guid>/project/kappa/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT&amp;rsquo;s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs&amp;rsquo;s workshops on Computational Thinking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skill Training &#43; Haptics for Carpentry &amp; Plumbing</title>
+      <link>/project/aptah/</link>
+      <pubDate>Sat, 26 Oct 2019 20:46:32 +0530</pubDate>
+      <guid>/project/aptah/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/plane.gif&#34; &gt;
+
+&lt;img src=&#34;/img/plane.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Tablesaw.gif&#34; &gt;
+
+&lt;img src=&#34;/img/Tablesaw.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/file.gif&#34; &gt;
+
+&lt;img src=&#34;/img/file.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Haathi Mera Saathi (My Elephant Friend)</title>
+      <link>/project/hms/</link>
+      <pubDate>Sat, 26 Oct 2019 19:45:36 +0530</pubDate>
+      <guid>/project/hms/</guid>
+      <description>&lt;p&gt;We created Haathi Mera Saathi (My Elephant Friend), a board game to introduce fundamentals of programming to children and young adults (our youngest student was 8 and the oldest was 22). The game’s title is a homage to the eponymous and famous Hindi children’s movie from the 1970&amp;rsquo;s. Here, the child takes on the role of the mahout and the game master moves a toy elephant across cells in a grid following the instructions given by the child (in the form of command cards, “go forward”, “turn right”, “eat” etc). Key concepts like loops and conditional branching are taught in an engaging series of exercises where the child “programs” the elephant to eat bananas and avoid obstacles like trees.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/hms6.jpg&#34; &gt;
+
+&lt;img src=&#34;/img/hms6.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A sample challenge in HMS solved by using loop structures&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
+
+&lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rebar Bending Simulator</title>
+      <link>/project/barbending/</link>
+      <pubDate>Sat, 26 Oct 2019 18:43:43 +0530</pubDate>
+      <guid>/project/barbending/</guid>
+      <description>
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bar2.gif&#34; &gt;
+
+&lt;img src=&#34;/img/bar2.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Leap&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>TUI for Toilet Location Surveying</title>
       <link>/project/tangibletoilet/</link>
-      <pubDate>Sat, 26 Oct 2019 19:03:19 +0530</pubDate>
+      <pubDate>Sat, 26 Oct 2019 17:03:19 +0530</pubDate>
       <guid>/project/tangibletoilet/</guid>
       <description>
 
@@ -173,9 +354,6 @@
       <guid>/project/amba/</guid>
       <description>
 
-&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
-age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
-
 
 
 
@@ -197,6 +375,9 @@ age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and d
 
 &lt;/figure&gt;
 
+
+&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
+age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
 
 &lt;h5 id=&#34;credits&#34;&gt;Credits&lt;/h5&gt;
 
@@ -334,46 +515,6 @@ Unnikrishnan R - Study Design&lt;/p&gt;
     </item>
     
     <item>
-      <title>Pepe : Social robot</title>
-      <link>/project/pepe/</link>
-      <pubDate>Sat, 26 Oct 2019 10:47:17 +0530</pubDate>
-      <guid>/project/pepe/</guid>
-      <description>
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/DBFy3LI890s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;We developed a social robot “Pepe” that encouraged around 100 children to engage in safe and effective handwashing behavior in a rural village in Wayanad,  government Primary School, Kerala, India. The robot was tele-operated by researchers to display behaviours (such as eye movement, speech and expressive mouth) in order to influence children to wash their hands. Pepe gave instructions to children in their local language (Malayalam) to follow the correct handwashing steps via a poster on the wall.&lt;/p&gt;
-
-&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
-
-&lt;p&gt;Unnikrishnan R - Study Design, Client-Server software, Electronics, Mouth Animation, Deployment&lt;br /&gt;
-Amol Deshmukh - Robot Design, Study Design&lt;br /&gt;
-Shanker Ramesh - Mechanical Design, Study Design, Deployment&lt;br /&gt;
-Sooraj K Babu - Robot Eye Control, Study Design/Logistics, Deployment&lt;br /&gt;
-Parameswari - Deployment&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kappa - Arduino Shield</title>
-      <link>/project/kappa/</link>
-      <pubDate>Sat, 26 Oct 2019 10:46:46 +0530</pubDate>
-      <guid>/project/kappa/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT&amp;rsquo;s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs&amp;rsquo;s workshops on Computational Thinking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Rotary Feedback Haptics</title>
       <link>/project/chakra/</link>
       <pubDate>Sat, 26 Oct 2019 10:46:35 +0530</pubDate>
@@ -394,147 +535,6 @@ Parameswari - Deployment&lt;/p&gt;
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   &lt;h4&gt;User trains in the use of a drillpress with haptic feedback.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Skill Training &#43; Haptics for Carpentry &amp; Plumbing</title>
-      <link>/project/aptah/</link>
-      <pubDate>Sat, 26 Oct 2019 10:46:32 +0530</pubDate>
-      <guid>/project/aptah/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/plane.gif&#34; &gt;
-
-&lt;img src=&#34;/img/plane.gif&#34; &gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Tablesaw.gif&#34; &gt;
-
-&lt;img src=&#34;/img/Tablesaw.gif&#34; &gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/file.gif&#34; &gt;
-
-&lt;img src=&#34;/img/file.gif&#34; &gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Haathi Mera Saathi (My Elephant Friend)</title>
-      <link>/project/hms/</link>
-      <pubDate>Sat, 26 Oct 2019 10:45:36 +0530</pubDate>
-      <guid>/project/hms/</guid>
-      <description>&lt;p&gt;We created Haathi Mera Saathi (My Elephant Friend), a board game to introduce fundamentals of programming to children and young adults (our youngest student was 8 and the oldest was 22). The game’s title is a homage to the eponymous and famous Hindi children’s movie from the 1970&amp;rsquo;s. Here, the child takes on the role of the mahout and the game master moves a toy elephant across cells in a grid following the instructions given by the child (in the form of command cards, “go forward”, “turn right”, “eat” etc). Key concepts like loops and conditional branching are taught in an engaging series of exercises where the child “programs” the elephant to eat bananas and avoid obstacles like trees.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/hms6.jpg&#34; &gt;
-
-&lt;img src=&#34;/img/hms6.jpg&#34; &gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A sample challenge in HMS solved by using loop structures&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
-
-&lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rebar Bending Simulator</title>
-      <link>/project/barbending/</link>
-      <pubDate>Sat, 26 Oct 2019 10:43:43 +0530</pubDate>
-      <guid>/project/barbending/</guid>
-      <description>
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bar2.gif&#34; &gt;
-
-&lt;img src=&#34;/img/bar2.gif&#34; &gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 

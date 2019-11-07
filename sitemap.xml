@@ -18,32 +18,75 @@
   </url>
   
   <url>
+    <loc>/project/pepe/</loc>
+    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
-    <lastmod>2019-10-26T19:03:19+05:30</lastmod>
+    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/socialrobotics/</loc>
+    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/computationalthinking/</loc>
+    <lastmod>2019-10-26T21:46:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/kappa/</loc>
+    <lastmod>2019-10-26T21:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/haptics/</loc>
+    <lastmod>2019-10-26T20:46:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/aptah/</loc>
+    <lastmod>2019-10-26T20:46:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hms/</loc>
+    <lastmod>2019-10-26T19:45:36+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/seriousgames/</loc>
-    <lastmod>2019-10-26T19:03:19+05:30</lastmod>
+    <lastmod>2019-10-26T19:45:36+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/project/barbending/</loc>
+    <lastmod>2019-10-26T18:43:43+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/tui/</loc>
-    <lastmod>2019-10-26T19:03:19+05:30</lastmod>
+    <lastmod>2019-10-26T17:03:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/tangibletoilet/</loc>
-    <lastmod>2019-10-26T19:03:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-26T19:03:19+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-26T17:03:19+05:30</lastmod>
   </url>
   
   <url>
@@ -73,51 +116,8 @@
   </url>
   
   <url>
-    <loc>/project/pepe/</loc>
-    <lastmod>2019-10-26T10:47:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/socialrobotics/</loc>
-    <lastmod>2019-10-26T10:47:17+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/computationalthinking/</loc>
-    <lastmod>2019-10-26T10:46:46+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/kappa/</loc>
-    <lastmod>2019-10-26T10:46:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/haptics/</loc>
-    <lastmod>2019-10-26T10:46:35+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/project/chakra/</loc>
     <lastmod>2019-10-26T10:46:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/aptah/</loc>
-    <lastmod>2019-10-26T10:46:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/hms/</loc>
-    <lastmod>2019-10-26T10:45:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/barbending/</loc>
-    <lastmod>2019-10-26T10:43:43+05:30</lastmod>
   </url>
   
   <url>

@@ -5,7 +5,7 @@
     <link>/tags/computationalthinking/</link>
       <atom:link href="/tags/computationalthinking/index.xml" rel="self" type="application/rss+xml" />
     <description>ComputationalThinking</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 10:46:46 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 21:46:46 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ComputationalThinking</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Kappa - Arduino Shield</title>
       <link>/project/kappa/</link>
-      <pubDate>Sat, 26 Oct 2019 10:46:46 +0530</pubDate>
+      <pubDate>Sat, 26 Oct 2019 21:46:46 +0530</pubDate>
       <guid>/project/kappa/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -30,7 +30,7 @@
     <item>
       <title>Haathi Mera Saathi (My Elephant Friend)</title>
       <link>/project/hms/</link>
-      <pubDate>Sat, 26 Oct 2019 10:45:36 +0530</pubDate>
+      <pubDate>Sat, 26 Oct 2019 19:45:36 +0530</pubDate>
       <guid>/project/hms/</guid>
       <description>&lt;p&gt;We created Haathi Mera Saathi (My Elephant Friend), a board game to introduce fundamentals of programming to children and young adults (our youngest student was 8 and the oldest was 22). The game’s title is a homage to the eponymous and famous Hindi children’s movie from the 1970&amp;rsquo;s. Here, the child takes on the role of the mahout and the game master moves a toy elephant across cells in a grid following the instructions given by the child (in the form of command cards, “go forward”, “turn right”, “eat” etc). Key concepts like loops and conditional branching are taught in an engaging series of exercises where the child “programs” the elephant to eat bananas and avoid obstacles like trees.&lt;/p&gt;
 
