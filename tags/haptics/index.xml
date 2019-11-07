@@ -13,11 +13,17 @@
     </image>
     
     <item>
-      <title>Skill Training &#43; Haptics for Carpentry &amp; Plumbing</title>
+      <title>Haptics for Skill Training in Carpentry &amp; Plumbing</title>
       <link>/project/aptah/</link>
       <pubDate>Sat, 26 Oct 2019 20:46:32 +0530</pubDate>
       <guid>/project/aptah/</guid>
-      <description>&lt;p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;
 
 
 
@@ -32,7 +38,7 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Planing simulator teaching the rhythm and pressure variations needed to achieve a smooth and even finish&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -53,7 +59,7 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Tablesaw simulator teaching basic safety and procedural skills involved in dado, rip, bevel and cross cuts&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -74,18 +80,12 @@
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Prototype metal filing simulator with the Novint Falcon&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
 &lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
     </item>
     

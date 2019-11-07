@@ -74,11 +74,17 @@ Parameswari - Deployment&lt;/p&gt;
     </item>
     
     <item>
-      <title>Skill Training &#43; Haptics for Carpentry &amp; Plumbing</title>
+      <title>Haptics for Skill Training in Carpentry &amp; Plumbing</title>
       <link>/project/aptah/</link>
       <pubDate>Sat, 26 Oct 2019 20:46:32 +0530</pubDate>
       <guid>/project/aptah/</guid>
-      <description>&lt;p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;
 
 
 
@@ -93,7 +99,7 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Planing simulator teaching the rhythm and pressure variations needed to achieve a smooth and even finish&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -114,7 +120,7 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Tablesaw simulator teaching basic safety and procedural skills involved in dado, rip, bevel and cross cuts&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -135,18 +141,12 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Prototype metal filing simulator with the Novint Falcon&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
 &lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
     </item>
     
@@ -190,7 +190,8 @@ Parameswari - Deployment&lt;/p&gt;
       <link>/project/barbending/</link>
       <pubDate>Sat, 26 Oct 2019 18:43:43 +0530</pubDate>
       <guid>/project/barbending/</guid>
-      <description>
+      <description>&lt;p&gt;I lead the software development team in the Reinforced bar bending project. I specifically created the procedural and mesh deformation graphics underlying the simulator as well as the virtual construction environment. The simulator is currently deployed in 5 Construction Skills Training Institutes of Larse &amp;amp; Toubro across India.&lt;br /&gt;
+
 
 
 
@@ -205,12 +206,12 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Leap&lt;/h4&gt;
+  &lt;h4&gt;Bending a square shape&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -375,6 +376,9 @@ Parameswari - Deployment&lt;/p&gt;
       <guid>/project/amba/</guid>
       <description>
 
+&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
+age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
+
 
 
 
@@ -396,9 +400,6 @@ Parameswari - Deployment&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
-&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
-age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
 
 &lt;h5 id=&#34;credits&#34;&gt;Credits&lt;/h5&gt;
 
@@ -440,21 +441,79 @@ pieces. Though in the real world, one would not get neat rectangular pieces as l
 cutting process, by considering the MER we can reasonably quantify the leftover material’s
 utility for future use.&lt;/p&gt;
 
-&lt;h3 id=&#34;shape-editor&#34;&gt;Shape Editor&lt;/h3&gt;
+&lt;h3 id=&#34;shape-scenario-editors&#34;&gt;Shape &amp;amp; Scenario Editors&lt;/h3&gt;
 
-&lt;p&gt;​This module (Fig. 2) lets the instructor add contour information of the shape of
-each wood piece into the system, which is mapped to the chilitag placed on the piece. The
-contour data is stored into a YML file as (x,y) offsets from the position of the chilitag’s center.
-Image processing tasks here were implemented using OpenCV.&lt;/p&gt;
 
-&lt;h3 id=&#34;scenario-editor&#34;&gt;Scenario Editor&lt;/h3&gt;
 
-&lt;p&gt;​This module lets the instructor associate a group of shapes to a scenario using
-their chilitags.
-Game ​: The objective of the game is to maximize the size of the MER that can be formed from
-the area left empty. Two interfaces were implemented for visualizing the MER, one in a virtual
-representation of the workpieces (using Unity3D) and the other by overlaying the MER on top of
-the live video stream itself. The ​CGAL​ library was used to find the MER.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/carp2.png&#34; &gt;
+
+&lt;img src=&#34;/img/carp2.png&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Shape editor&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;​The shape editor lets the instructor add contour information of the shape of each wood piece into the system, which is mapped to the chilitag placed on the piece. The contour data is stored into a YML file as (x,y) offsets from the position of the chilitag’s center. Image processing tasks here were implemented using OpenCV. ​The scenario module lets the instructor associate a group of shapes to a scenario using their associated AR tags. This helps in providing the scoring metrics and a simple hint system as shown below.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/carp1.png&#34; &gt;
+
+&lt;img src=&#34;/img/carp1.png&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Bending a square shape&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;game&#34;&gt;Game&lt;/h3&gt;
+
+&lt;p&gt;Game ​: The objective of the game is to maximize the size of the Maximum Empty Rectangle (MER) that can be formed from the area left empty. Two interfaces were implemented for visualizing the MER, one in a virtual representation of the workpieces (using Unity3D) and the other by overlaying the MER on top of the live video stream itself. The ​CGAL​ library was used to find the MER.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/carp3.png&#34; &gt;
+
+&lt;img src=&#34;/img/carp3.png&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A near optimal solution for this collection of shapes&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
 </description>
     </item>
     

@@ -367,24 +367,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
   <h1 itemprop="name">TUI for Carpentry Planning Skills</h1>
 
   
 
   
+    
 
 
 
@@ -511,29 +505,22 @@
 
 </div>
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 273px; max-height: 189px;">
-  <div style="position: relative">
-    <img src="/project/carpentrytui/featured.png" alt="" class="featured-image">
     
-  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 
@@ -565,21 +552,79 @@ pieces. Though in the real world, one would not get neat rectangular pieces as l
 cutting process, by considering the MER we can reasonably quantify the leftover material’s
 utility for future use.</p>
 
-<h3 id="shape-editor">Shape Editor</h3>
+<h3 id="shape-scenario-editors">Shape &amp; Scenario Editors</h3>
 
-<p>​This module (Fig. 2) lets the instructor add contour information of the shape of
-each wood piece into the system, which is mapped to the chilitag placed on the piece. The
-contour data is stored into a YML file as (x,y) offsets from the position of the chilitag’s center.
-Image processing tasks here were implemented using OpenCV.</p>
 
-<h3 id="scenario-editor">Scenario Editor</h3>
 
-<p>​This module lets the instructor associate a group of shapes to a scenario using
-their chilitags.
-Game ​: The objective of the game is to maximize the size of the MER that can be formed from
-the area left empty. Two interfaces were implemented for visualizing the MER, one in a virtual
-representation of the workpieces (using Unity3D) and the other by overlaying the MER on top of
-the live video stream itself. The ​CGAL​ library was used to find the MER.</p>
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/carp2.png" >
+
+<img src="/img/carp2.png" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Shape editor</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<p>​The shape editor lets the instructor add contour information of the shape of each wood piece into the system, which is mapped to the chilitag placed on the piece. The contour data is stored into a YML file as (x,y) offsets from the position of the chilitag’s center. Image processing tasks here were implemented using OpenCV. ​The scenario module lets the instructor associate a group of shapes to a scenario using their associated AR tags. This helps in providing the scoring metrics and a simple hint system as shown below.</p>
+
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/carp1.png" >
+
+<img src="/img/carp1.png" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Bending a square shape</h4>
+  
+</figcaption>
+
+</figure>
+
+
+<h3 id="game">Game</h3>
+
+<p>Game ​: The objective of the game is to maximize the size of the Maximum Empty Rectangle (MER) that can be formed from the area left empty. Two interfaces were implemented for visualizing the MER, one in a virtual representation of the workpieces (using Unity3D) and the other by overlaying the MER on top of the live video stream itself. The ​CGAL​ library was used to find the MER.</p>
+
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="/img/carp3.png" >
+
+<img src="/img/carp3.png" >
+</a>
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>A near optimal solution for this collection of shapes</h4>
+  
+</figcaption>
+
+</figure>
+
 
     </div>
 
