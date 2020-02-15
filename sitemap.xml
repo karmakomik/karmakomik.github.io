@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/publication/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +19,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -23,27 +27,18 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/socialrobotics/</loc>
     <lastmod>2019-10-26T22:47:17+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-10-26T22:47:17+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/computationalthinking/</loc>
     <lastmod>2019-10-26T21:46:46+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -54,7 +49,6 @@
   <url>
     <loc>/tags/haptics/</loc>
     <lastmod>2019-10-26T20:46:32+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -70,7 +64,6 @@
   <url>
     <loc>/tags/seriousgames/</loc>
     <lastmod>2019-10-26T19:45:36+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -81,7 +74,6 @@
   <url>
     <loc>/tags/tui/</loc>
     <lastmod>2019-10-26T17:03:19+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -112,7 +104,6 @@
   <url>
     <loc>/tags/virtualreality/</loc>
     <lastmod>2019-10-26T10:49:21+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -123,19 +114,16 @@
   <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/amol-deshmukh/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -151,13 +139,11 @@
   <url>
     <loc>/authors/parameswari-anitha/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -168,55 +154,46 @@
   <url>
     <loc>/authors/r-unnikrishnan/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/rao-r-bhavani/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/shanker-ramesh/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sooraj-k-babu/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/ajay-balakrishnan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/akshay-nagarajan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/r.-unnikrishnan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/rao-r.-bhavani/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -232,19 +209,16 @@
   <url>
     <loc>/authors/sooraj-krishna/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sreeram-kongeseri/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/srividya-sheshadri/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -260,67 +234,56 @@
   <url>
     <loc>/authors/others/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/alexander-muir/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/balu-m-menon/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/manikutty-gayathri/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/menon-mahima/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mohan-t-harish/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/prathap-vishnu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/s-nishok/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/s-shanker/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sangiorgio-marco/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sasi-deepu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -336,7 +299,6 @@
   <url>
     <loc>/authors/delmar-marshall/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -352,37 +314,31 @@
   <url>
     <loc>/authors/james-jose/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/k-namitha/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/md-sankaran-ravi/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/menon-m-mahima/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/n-amrita/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/natarajan-amritha/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -403,13 +359,11 @@
   <url>
     <loc>/authors/nagarajan-akshay/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/r-ranjith/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -425,19 +379,16 @@
   <url>
     <loc>/authors/es-rahul/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/karen-moawad/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/b-bhavani/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -451,7 +402,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

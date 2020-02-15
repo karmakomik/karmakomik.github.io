@@ -5,7 +5,7 @@
     <link>/tags/haptics/</link>
       <atom:link href="/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
     <description>Haptics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 20:46:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Sat, 26 Oct 2019 20:46:32 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haptics</title>
@@ -19,9 +19,8 @@
       <guid>/project/aptah/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;
 

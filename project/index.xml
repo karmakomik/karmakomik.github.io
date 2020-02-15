@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 22:47:17 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,26 +13,29 @@
     </image>
     
     <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pepe : Social robot</title>
       <link>/project/pepe/</link>
       <pubDate>Sat, 26 Oct 2019 22:47:17 +0530</pubDate>
       <guid>/project/pepe/</guid>
       <description>
-
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/DBFy3LI890s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DBFy3LI890s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;We developed a social robot “Pepe” that encouraged around 100 children to engage in safe and effective handwashing behavior in a rural village in Wayanad,  government Primary School, Kerala, India. The robot was tele-operated by researchers to display behaviours (such as eye movement, speech and expressive mouth) in order to influence children to wash their hands. Pepe gave instructions to children in their local language (Malayalam) to follow the correct handwashing steps via a poster on the wall.&lt;/p&gt;
-
 &lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
-
-&lt;p&gt;Unnikrishnan R - Study Design, Client-Server software, Electronics, Mouth Animation, Deployment&lt;br /&gt;
-Amol Deshmukh - Robot Design, Study Design&lt;br /&gt;
-Shanker Ramesh - Mechanical Design, Study Design, Deployment&lt;br /&gt;
-Sooraj K Babu - Robot Eye Control, Study Design/Logistics, Deployment&lt;br /&gt;
+&lt;p&gt;Unnikrishnan R - Study Design, Client-Server software, Electronics, Mouth Animation, Deployment&lt;br&gt;
+Amol Deshmukh - Robot Design, Study Design&lt;br&gt;
+Shanker Ramesh - Mechanical Design, Study Design, Deployment&lt;br&gt;
+Sooraj K Babu - Robot Eye Control, Study Design/Logistics, Deployment &lt;br&gt;
 Parameswari - Deployment&lt;/p&gt;
 </description>
     </item>
@@ -44,9 +47,8 @@ Parameswari - Deployment&lt;/p&gt;
       <guid>/project/kappa/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lWRv0Bq7jso&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;Kappa is a capacitive touching sensing Arduino shield which is designed to help students create tangible interfaces with conductive materials. The project was inspired by MIT&amp;rsquo;s Makey Makey and seeks to bring the creative possibilities of the Makey Makey in a cost-effective form with a price point of less than 1 USD. Kappa has reached more than a 100 students around South India as a part of the AMMACHI labs&amp;rsquo;s workshops on Computational Thinking.&lt;/p&gt;
 </description>
@@ -59,9 +61,8 @@ Parameswari - Deployment&lt;/p&gt;
       <guid>/project/aptah/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;
 
@@ -141,7 +142,6 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 
-
 &lt;figure&gt;
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;/img/hms6.jpg&#34; &gt;
@@ -157,9 +157,7 @@ Parameswari - Deployment&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
-
 &lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
 </description>
     </item>
@@ -169,7 +167,7 @@ Parameswari - Deployment&lt;/p&gt;
       <link>/project/barbending/</link>
       <pubDate>Sat, 26 Oct 2019 18:43:43 +0530</pubDate>
       <guid>/project/barbending/</guid>
-      <description>&lt;p&gt;I lead the software development team in the Reinforced bar bending project. I specifically created the procedural and mesh deformation graphics underlying the simulator as well as the virtual construction environment. The simulator is currently deployed in 5 Construction Skills Training Institutes of Larse &amp;amp; Toubro across India.&lt;br /&gt;
+      <description>&lt;p&gt;I lead the software development team in the Reinforced bar bending project. I specifically created the procedural and mesh deformation graphics underlying the simulator as well as the virtual construction environment. The simulator is currently deployed in 5 Construction Skills Training Institutes of Larse &amp;amp; Toubro across India.&lt;br&gt;
 
 
 
@@ -219,7 +217,6 @@ Parameswari - Deployment&lt;/p&gt;
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-
 
 &lt;p&gt;
 
@@ -292,10 +289,7 @@ Parameswari - Deployment&lt;/p&gt;
       <link>/project/abc/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:43 +0530</pubDate>
       <guid>/project/abc/</guid>
-      <description>
-
-&lt;p&gt;In this game, the players have to sort falling trash into the right bins (organic, soft plastic, hard stuff, paper). The players gain points when the waste is sorted into the right bins and loses points when done wrong.&lt;/p&gt;
-
+      <description>&lt;p&gt;In this game, the players have to sort falling trash into the right bins (organic, soft plastic, hard stuff, paper). The players gain points when the waste is sorted into the right bins and loses points when done wrong.&lt;/p&gt;
 
 
 
@@ -323,7 +317,6 @@ Parameswari - Deployment&lt;/p&gt;
 
 
 
-
 &lt;figure&gt;
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;/img/abc2.gif&#34; &gt;
@@ -339,11 +332,8 @@ Parameswari - Deployment&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;h4 id=&#34;credits&#34;&gt;Credits&lt;/h4&gt;
-
 &lt;p&gt;Unnikrishnan R - Design &amp;amp; Development&lt;/p&gt;
-
 &lt;p&gt;Latheesh Sivadas/Aghila A/Syamlal R - Art&lt;/p&gt;
 </description>
     </item>
@@ -353,11 +343,8 @@ Parameswari - Deployment&lt;/p&gt;
       <link>/project/amba/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:37 +0530</pubDate>
       <guid>/project/amba/</guid>
-      <description>
-
-&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
+      <description>&lt;p&gt;AMBA (Amrita Balance Trainer) was designed for people with balance impairments. India has a huge population of people with balance impairments due to old
 age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and dynamic balance training through interactive virtual reality games. Serious games designed for encouraging balance training ensure that the patient remains motivated for a longer time compared to conventional therapy regimes. With built-in tilt mechanisms, AMBA facilitates realistic ADL (Activities of Daily Living) scenarios.&lt;/p&gt;
-
 
 
 
@@ -379,14 +366,12 @@ age, diabetes, stroke as well as peripheral neuropathy. AMBA allows static and d
 
 &lt;/figure&gt;
 
-
 &lt;h5 id=&#34;credits&#34;&gt;Credits&lt;/h5&gt;
-
-&lt;p&gt;Unnikrishnan R - Driver Design, Database Design &amp;amp; Game Development&lt;br /&gt;
-Dr Ravi Sankaran - Concept Design, User Studies&lt;br /&gt;
-Harish T Mohan - Hardware Design &amp;amp; Manufacturing&lt;br /&gt;
-Amritha Natarajan - Electronics Design &amp;amp; Development&lt;br /&gt;
-Mahima M Menon - Game Development&lt;br /&gt;
+&lt;p&gt;Unnikrishnan R - Driver Design, Database Design &amp;amp; Game Development&lt;br&gt;
+Dr Ravi Sankaran - Concept Design, User Studies&lt;br&gt;
+Harish T Mohan - Hardware Design &amp;amp; Manufacturing&lt;br&gt;
+Amritha Natarajan - Electronics Design &amp;amp; Development&lt;br&gt;
+Mahima M Menon - Game Development&lt;br&gt;
 Namitha K - User Studies, Data Analysis&lt;/p&gt;
 </description>
     </item>
@@ -396,22 +381,19 @@ Namitha K - User Studies, Data Analysis&lt;/p&gt;
       <link>/project/carpentrytui/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:21 +0530</pubDate>
       <guid>/project/carpentrytui/</guid>
-      <description>
-
-&lt;p&gt;Optimal arrangement of woodcut layout when done manually, faces two challenges, one being
+      <description>&lt;p&gt;Optimal arrangement of woodcut layout when done manually, faces two challenges, one being
 that the apprentice carpenter does not get real time feedback on how efficient their arrangement
 is and the second being that most are not motivated enough to do such a task (perhaps
 because of the cognitive load). From a pedagogical view, such a problem can be tackled with
 the help of elements of gamification, like giving real time feedback on performance,
 leaderboards for identifying the best performers (in the classroom or workplace) and additional
 features that enables instructors or supervisors to add and customize scenarios of their
-choosing.
+choosing. 
 This problem of optimization of material use has been tackled by the textile, sheet metal cutting
 and carpentry cutting machine industries for many decades and is still an active area of
 research in the fields of computational geometry and operations research. In a way the goal of
 this project is to translate this kind of “computational” efficiency found in the automation industry
 into human workers which could prove useful in developing nations.&lt;/p&gt;
-
 &lt;p&gt;The problem of optimizing the arrangement of the component pieces needed to be made
 quantifiable (for the scoring to work) while reflecting real world usefulness as well. So it was
 recharacterized as a problem of finding the Maximum Empty (axis-parallel) Rectangle (MER)
@@ -419,9 +401,7 @@ that can be fit into the empty space remaining in the workpiece after arranging 
 pieces. Though in the real world, one would not get neat rectangular pieces as leftover from the
 cutting process, by considering the MER we can reasonably quantify the leftover material’s
 utility for future use.&lt;/p&gt;
-
-&lt;h3 id=&#34;shape-scenario-editors&#34;&gt;Shape &amp;amp; Scenario Editors&lt;/h3&gt;
-
+&lt;h3 id=&#34;shape--scenario-editors&#34;&gt;Shape &amp;amp; Scenario Editors&lt;/h3&gt;
 
 
 
@@ -443,9 +423,7 @@ utility for future use.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;​The shape editor lets the instructor add contour information of the shape of each wood piece into the system, which is mapped to the chilitag placed on the piece. The contour data is stored into a YML file as (x,y) offsets from the position of the chilitag’s center. Image processing tasks here were implemented using OpenCV. ​The scenario module lets the instructor associate a group of shapes to a scenario using their associated AR tags. This helps in providing the scoring metrics and a simple hint system as shown below.&lt;/p&gt;
-
 
 
 
@@ -467,11 +445,8 @@ utility for future use.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;h3 id=&#34;game&#34;&gt;Game&lt;/h3&gt;
-
 &lt;p&gt;Game ​: The objective of the game is to maximize the size of the Maximum Empty Rectangle (MER) that can be formed from the area left empty. Two interfaces were implemented for visualizing the MER, one in a virtual representation of the workpieces (using Unity3D) and the other by overlaying the MER on top of the live video stream itself. The ​CGAL​ library was used to find the MER.&lt;/p&gt;
-
 
 
 
@@ -501,15 +476,11 @@ utility for future use.&lt;/p&gt;
       <link>/project/xrmotorcycle/</link>
       <pubDate>Sat, 26 Oct 2019 10:49:21 +0530</pubDate>
       <guid>/project/xrmotorcycle/</guid>
-      <description>
-
-&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
-
+      <description>&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 
 
@@ -532,9 +503,7 @@ utility for future use.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;After a few years the project was dusted off the shelf and my team worked on creating an immersive virtual reality environment where users learn to identify motorcycle parts through interactive labeling and learn the procedural skills of dismantling the exhaust pipe. I helped in designing the evaluation study for measuring perception and learning gain for a parts label memorization task in virtual reality versus conventional media.&lt;/p&gt;
-
 
 
 
@@ -556,19 +525,14 @@ utility for future use.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-
 &lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
-
-&lt;h6 id=&#34;prototypes-with-leap-zspace&#34;&gt;Prototypes with Leap/zSpace&lt;/h6&gt;
-
-&lt;p&gt;Unnikrishnan R - Software Development&lt;br /&gt;
+&lt;h6 id=&#34;prototypes-with-leapzspace&#34;&gt;Prototypes with Leap/zSpace&lt;/h6&gt;
+&lt;p&gt;Unnikrishnan R - Software Development&lt;br&gt;
 Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;/p&gt;
-
 &lt;h6 id=&#34;prototype-vr-trainer-with-htc-vive&#34;&gt;Prototype VR trainer with HTC Vive&lt;/h6&gt;
-
-&lt;p&gt;Sooraj K Babu - Software Development/ Study Design &amp;amp; Implementation&lt;br /&gt;
-Sooraj Krishna - Study Design &amp;amp; Implementation&lt;br /&gt;
-Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;br /&gt;
+&lt;p&gt;Sooraj K Babu - Software Development/ Study Design &amp;amp; Implementation&lt;br&gt;
+Sooraj Krishna - Study Design &amp;amp; Implementation&lt;br&gt;
+Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;br&gt;
 Unnikrishnan R - Study Design&lt;/p&gt;
 </description>
     </item>

@@ -5,21 +5,12 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Unnikrishnan R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright>
     <image>
       <url>/img/icon-192.png</url>
       <title>Unnikrishnan R</title>
       <link>/authors/admin/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer at AMMACHI labs where I create Virtual Reality and Haptic feedback based simulators for skill training, social robots for behavior change, tangible interface technologies for education and tools to teach programming skills for school students. I also lead the Virtual Reality &amp;amp; Serious Games development group at the lab.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

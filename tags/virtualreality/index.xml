@@ -5,7 +5,7 @@
     <link>/tags/virtualreality/</link>
       <atom:link href="/tags/virtualreality/index.xml" rel="self" type="application/rss+xml" />
     <description>VirtualReality</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2019</copyright><lastBuildDate>Sat, 26 Oct 2019 10:49:21 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Sat, 26 Oct 2019 10:49:21 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>VirtualReality</title>
@@ -17,15 +17,11 @@
       <link>/project/xrmotorcycle/</link>
       <pubDate>Sat, 26 Oct 2019 10:49:21 +0530</pubDate>
       <guid>/project/xrmotorcycle/</guid>
-      <description>
-
-&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
-
+      <description>&lt;p&gt;I developed prototypes for visualizing the layout of motorcycle parts, allowing for interactive labeling and assembly operations with gestures using the Leap motion sensor &amp;amp; the zSpace virtual holographic display.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MKz7DdEH9mQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 
 
@@ -48,9 +44,7 @@
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;After a few years the project was dusted off the shelf and my team worked on creating an immersive virtual reality environment where users learn to identify motorcycle parts through interactive labeling and learn the procedural skills of dismantling the exhaust pipe. I helped in designing the evaluation study for measuring perception and learning gain for a parts label memorization task in virtual reality versus conventional media.&lt;/p&gt;
-
 
 
 
@@ -72,19 +66,14 @@
 
 &lt;/figure&gt;
 
-
 &lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
-
-&lt;h6 id=&#34;prototypes-with-leap-zspace&#34;&gt;Prototypes with Leap/zSpace&lt;/h6&gt;
-
-&lt;p&gt;Unnikrishnan R - Software Development&lt;br /&gt;
+&lt;h6 id=&#34;prototypes-with-leapzspace&#34;&gt;Prototypes with Leap/zSpace&lt;/h6&gt;
+&lt;p&gt;Unnikrishnan R - Software Development&lt;br&gt;
 Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;/p&gt;
-
 &lt;h6 id=&#34;prototype-vr-trainer-with-htc-vive&#34;&gt;Prototype VR trainer with HTC Vive&lt;/h6&gt;
-
-&lt;p&gt;Sooraj K Babu - Software Development/ Study Design &amp;amp; Implementation&lt;br /&gt;
-Sooraj Krishna - Study Design &amp;amp; Implementation&lt;br /&gt;
-Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;br /&gt;
+&lt;p&gt;Sooraj K Babu - Software Development/ Study Design &amp;amp; Implementation&lt;br&gt;
+Sooraj Krishna - Study Design &amp;amp; Implementation&lt;br&gt;
+Syamlal R/ Reshmi V/ Aghila A/ Latheesh S - 3D modeling, texturing&lt;br&gt;
 Unnikrishnan R - Study Design&lt;/p&gt;
 </description>
     </item>
