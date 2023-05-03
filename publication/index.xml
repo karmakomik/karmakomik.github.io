@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -19,6 +19,46 @@
       <guid>/publication/publications/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Investigating the effectiveness of immersive VR skill training and its link to physiological arousal</title>
+      <link>/publication/unnikrishnan-2022-buzzwire-2/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2022-buzzwire-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review of immersive virtual reality for industrial skills training</title>
+      <link>/publication/unnikrishnan-2021-litreview/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2021-litreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Virtual Reality Training: Three Cases from the Danish Industry</title>
+      <link>/publication/unnikrishnan-2021-industrialreview/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2021-industrialreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating motor skill training and user arousal levels in VR: Pilot Study and Observations</title>
+      <link>/publication/unnikrishnan-2021-buzzwire/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2021-buzzwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Scrum with a Virtual Sprint Simulation: Initial Design and Considerations</title>
+      <link>/publication/unnikrishnan-2020-scrum/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2020-scrum/</guid>
+      <description></description>
     </item>
     
     <item>

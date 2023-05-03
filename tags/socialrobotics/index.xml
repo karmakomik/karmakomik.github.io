@@ -5,7 +5,7 @@
     <link>/tags/socialrobotics/</link>
       <atom:link href="/tags/socialrobotics/index.xml" rel="self" type="application/rss+xml" />
     <description>SocialRobotics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Sat, 26 Oct 2019 22:47:17 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Sat, 26 Oct 2019 22:47:17 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>SocialRobotics</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Pepe : Social Robot</title>
+      <title>Pepe - Social Robot for Handwashing Behaviour change</title>
       <link>/project/pepe/</link>
       <pubDate>Sat, 26 Oct 2019 22:47:17 +0530</pubDate>
       <guid>/project/pepe/</guid>

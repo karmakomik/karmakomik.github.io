@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Francesco Chinello</title>
+      <link>/authors/francesco-chinello/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/francesco-chinello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantinos Koumaditis</title>
+      <link>/authors/konstantinos-koumaditis/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/konstantinos-koumaditis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Unnikrishnan</title>
+      <link>/authors/r-unnikrishnan/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r-unnikrishnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alin Blindu</title>
+      <link>/authors/alin-blindu/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/alin-blindu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amol Deshmukh</title>
@@ -25,14 +57,6 @@
       <link>/authors/parameswari-anitha/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/parameswari-anitha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Unnikrishnan</title>
-      <link>/authors/r-unnikrishnan/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r-unnikrishnan/</guid>
       <description></description>
     </item>
     
@@ -305,7 +329,9 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a PhD Fellow at the &lt;a href=&#34;https://btech.au.dk/en/research/research-sections-and-centres/engtech/labs/the-extended-reality-and-robotics-lab/&#34;&gt;Extended Reality and Robotics lab, Aarhus University&lt;/a&gt; working at the intersection of virtual reality, haptics and learning analytics to investigate effective ways of designing immersive and user adaptive skill training systems. I was previously a software engineer and team lead of the Virtual Reality &amp;amp; Serious Games development group at &lt;a href=&#34;http://ammachilabs.org/&#34;&gt;AMMACHI labs&lt;/a&gt; where I created social robots for behavior change, tangible interface technologies for education and tools to teach programming skills for school students.&lt;/p&gt;
+      <description>&lt;p&gt;With over 10 years of experience in software engineering and research, I specialize in developing virtual and augmented learning environments, multiuser serious games, and data-driven applications for academia, industry, NGOs, and governments. My key strengths lie in collaboratively working with interdisciplinary teams to develop solutions using diverse software and hardware frameworks that meet project requirements.&lt;/p&gt;
+&lt;p&gt;Currently completing my PhD at Aarhus University&amp;rsquo;s &lt;a href=&#34;https://btech.au.dk/en/research/research-sections-and-centres/engtech/labs/the-extended-reality-and-robotics-lab/&#34;&gt;Extended Reality and Robotics lab, Aarhus University&lt;/a&gt;, my research focuses on immersive virtual reality, haptics, biosignals, and learning analytics for effective skill training systems. At Aarhus University, I have also developed multiuser virtual environments to support teaching and have taught graduate-level courses on Python and Machine Learning. Previously, I led the Virtual Reality &amp;amp; Serious Games group at &lt;a href=&#34;http://ammachilabs.org/&#34;&gt;AMMACHI labs&lt;/a&gt;, where I developed and led various virtual reality training solutions for clients such as the Indian government and companies like Larsen &amp;amp; Toubro. During my time at AMMACHI Labs, I also collaborated with social workers to develop technologies supporting education and health in rural India. I possess expertise in C#, Python, C/C++, and other programming languages, and have extensive experience with game engines and machine learning libraries.&lt;/p&gt;
+&lt;p&gt;As I embark on the next phase of my career, I am seeking opportunities to leverage my research and industry experience to drive innovation and tackle complex technological challenges. I am open to collaboration and excited to contribute to projects that push technological boundaries and create meaningful impact. Please connect or message me to discuss potential collaborations or job openings.&lt;/p&gt;
 </description>
     </item>
     

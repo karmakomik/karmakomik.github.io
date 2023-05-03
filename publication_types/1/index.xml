@@ -5,12 +5,36 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Immersive Virtual Reality Training: Three Cases from the Danish Industry</title>
+      <link>/publication/unnikrishnan-2021-industrialreview/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2021-industrialreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating motor skill training and user arousal levels in VR: Pilot Study and Observations</title>
+      <link>/publication/unnikrishnan-2021-buzzwire/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2021-buzzwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Scrum with a Virtual Sprint Simulation: Initial Design and Considerations</title>
+      <link>/publication/unnikrishnan-2020-scrum/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unnikrishnan-2020-scrum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design and Perception of a Social Robot to Promote Hand Washing among Children in a Rural Indian School</title>

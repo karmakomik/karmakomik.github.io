@@ -5,7 +5,7 @@
     <link>/tags/tui/</link>
       <atom:link href="/tags/tui/index.xml" rel="self" type="application/rss+xml" />
     <description>TUI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Sat, 26 Oct 2019 17:03:19 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Sat, 26 Oct 2019 17:03:19 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>TUI</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>TUI for Toilet Location Surveying</title>
+      <title>Tangible Interface for Toilet Location Surveying</title>
       <link>/project/tangibletoilet/</link>
       <pubDate>Sat, 26 Oct 2019 17:03:19 +0530</pubDate>
       <guid>/project/tangibletoilet/</guid>
@@ -105,26 +105,15 @@
     </item>
     
     <item>
-      <title>TUI for Carpentry Planning Skills</title>
+      <title>Tangible Interface for Carpentry Planning Skills</title>
       <link>/project/carpentrytui/</link>
       <pubDate>Sat, 26 Oct 2019 10:51:21 +0530</pubDate>
       <guid>/project/carpentrytui/</guid>
-      <description>&lt;p&gt;Optimal arrangement of woodcut layout when done manually, faces two challenges, one being
-that the apprentice carpenter does not get real time feedback on how efficient their arrangement
-is and the second being that most are not motivated enough to do such a task (perhaps
-because of the cognitive load). From a pedagogical view, such a problem can be tackled with
-the help of elements of gamification, like giving real time feedback on performance,
-leaderboards for identifying the best performers (in the classroom or workplace) and additional
-features that enables instructors or supervisors to add and customize scenarios of their
-choosing. 
-This problem of optimization of material use has been tackled by the textile, sheet metal cutting
-and carpentry cutting machine industries for many decades and is still an active area of
-research in the fields of computational geometry and operations research. In a way the goal of
-this project is to translate this kind of “computational” efficiency found in the automation industry
-into human workers which could prove useful in developing nations.&lt;/p&gt;
-&lt;p&gt;The problem of optimizing the arrangement of the component pieces needed to be made
-quantifiable (for the scoring to work) while reflecting real world usefulness as well. So it was
-recharacterized as a problem of finding the Maximum Empty (axis-parallel) Rectangle (MER)
+      <description>&lt;p&gt;As part of a collaboration with EPFL&amp;rsquo;s Chili Labs, I developed a tangible interface for training carpenters in optimizing wood cut planning. Optimal arrangement of woodcut layout when done manually, faces two challenges, one being that the apprentice carpenter does not get real time feedback on how efficient their arrangement is and the second being that most are not motivated enough to do such a task (perhaps because of the cognitive load). From a pedagogical view, such a problem can be tackled with the help of elements of gamification, like giving real time feedback on performance, leaderboards for identifying the best performers (in the classroom or workplace) and additional features that enables instructors or supervisors to add and customize scenarios of their choosing.&lt;/p&gt;
+&lt;p&gt;This problem of optimization of material use has been tackled by the textile, sheet metal cutting
+and carpentry cutting machine industries for many decades and is still an active area of research in the fields of computational geometry and operations research. In a way the goal of
+this project is to translate this kind of “computational” efficiency found in the automation industry into human workers which could prove useful in developing nations.&lt;/p&gt;
+&lt;p&gt;The problem of optimizing the arrangement of the component pieces needed to be made quantifiable (for the scoring to work) while reflecting real world usefulness as well. So it was recharacterized as a problem of finding the Maximum Empty (axis-parallel) Rectangle (MER)
 that can be fit into the empty space remaining in the workpiece after arranging the component
 pieces. Though in the real world, one would not get neat rectangular pieces as leftover from the
 cutting process, by considering the MER we can reasonably quantify the leftover material’s

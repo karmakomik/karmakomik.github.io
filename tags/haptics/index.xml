@@ -5,7 +5,7 @@
     <link>/tags/haptics/</link>
       <atom:link href="/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
     <description>Haptics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2020</copyright><lastBuildDate>Sat, 26 Oct 2019 20:46:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Sat, 26 Oct 2019 20:46:32 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haptics</title>
@@ -13,16 +13,17 @@
     </image>
     
     <item>
-      <title>Haptics for Skill Training in Carpentry &amp; Plumbing</title>
+      <title>Skill training simulators for plumbing &amp; carpentry</title>
       <link>/project/aptah/</link>
       <pubDate>Sat, 26 Oct 2019 20:46:32 +0530</pubDate>
       <guid>/project/aptah/</guid>
-      <description>
+      <description>&lt;p&gt;I worked on desktop VR simulators for training in a variety of vocational skills like plumbing and carpentry on a project funded by the Indian government&amp;rsquo;s Ministry of Human Resources and Development. The simulators are enabled with haptic force feedback simulating contact forces between tools and materials utilizing both haptic devices developed at AMMACHI labs (APTAH for linear 1DOF feedback, CHAKRA for rotary 1DOF feedback) as well as commercial devices like the Novint Falcon. I worked primarily on the graphics and software interface (using OpenGL, Unity, CHAI3D and Qt). Under the guidance of Prof. Ken Salisbury of Stanford University (one of the founding fathers of the field of computer haptics), my team also built a low-cost underactuated haptic device called MUSHAK. You can see glimpses of my work below. For more details please visit &lt;a href=&#34;https://ammachilabs.org/haptic-simulators/&#34;&gt;https://ammachilabs.org/haptic-simulators/&lt;/a&gt;.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/UBD9agFynFM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;
+
 
 
 
@@ -84,16 +85,8 @@
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rotary Feedback Haptics</title>
-      <link>/project/chakra/</link>
-      <pubDate>Sat, 26 Oct 2019 10:46:35 +0530</pubDate>
-      <guid>/project/chakra/</guid>
-      <description>
+
+
 
 
 
@@ -114,6 +107,57 @@
 
 &lt;/figure&gt;
 
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/mushak.gif&#34; &gt;
+
+&lt;img src=&#34;/img/mushak.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;MUSHAK prototype for jigsaw simulation&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Rebar Bending Simulator</title>
+      <link>/project/barbending/</link>
+      <pubDate>Sat, 26 Oct 2019 18:43:43 +0530</pubDate>
+      <guid>/project/barbending/</guid>
+      <description>&lt;p&gt;I led the software development team in the Reinforced bar bending project. I specifically created the procedural and mesh deformation graphics underlying the simulator as well as the virtual construction environment. The simulator is currently deployed in 5 Construction Skills Training Institutes of Larse &amp;amp; Toubro across India.&lt;br&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bar2.gif&#34; &gt;
+
+&lt;img src=&#34;/img/bar2.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Bending a square shape&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
