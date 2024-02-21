@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Unnikrishnan R</title>
+    <title>Authors | </title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2024</copyright><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Claudio Pacchierotti</title>
+      <link>/authors/claudio-pacchierotti/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/claudio-pacchierotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Francesco Chinello</title>
       <link>/authors/francesco-chinello/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/authors/francesco-chinello/</guid>
       <description></description>
     </item>
@@ -23,15 +31,23 @@
     <item>
       <title>Konstantinos Koumaditis</title>
       <link>/authors/konstantinos-koumaditis/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/authors/konstantinos-koumaditis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisheng Kuang</title>
+      <link>/authors/lisheng-kuang/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/lisheng-kuang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Unnikrishnan</title>
       <link>/authors/r-unnikrishnan/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/authors/r-unnikrishnan/</guid>
       <description></description>
     </item>
@@ -330,8 +346,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;With over 10 years of experience in software engineering and research, I specialize in developing virtual and augmented learning environments, multiuser serious games, and data-driven applications for academia, industry, NGOs, and governments. My key strengths lie in collaboratively working with interdisciplinary teams to develop solutions using diverse software and hardware frameworks that meet project requirements.&lt;/p&gt;
-&lt;p&gt;Currently completing my PhD at Aarhus University&amp;rsquo;s &lt;a href=&#34;https://btech.au.dk/en/research/research-sections-and-centres/engtech/labs/the-extended-reality-and-robotics-lab/&#34;&gt;Extended Reality and Robotics lab, Aarhus University&lt;/a&gt;, my research focuses on immersive virtual reality, haptics, biosignals, and learning analytics for effective skill training systems. At Aarhus University, I have also developed multiuser virtual environments to support teaching and have taught graduate-level courses on Python and Machine Learning. Previously, I led the Virtual Reality &amp;amp; Serious Games group at &lt;a href=&#34;http://ammachilabs.org/&#34;&gt;AMMACHI labs&lt;/a&gt;, where I developed and led various virtual reality training solutions for clients such as the Indian government and companies like Larsen &amp;amp; Toubro. During my time at AMMACHI Labs, I also collaborated with social workers to develop technologies supporting education and health in rural India. I possess expertise in C#, Python, C/C++, and other programming languages, and have extensive experience with game engines and machine learning libraries.&lt;/p&gt;
-&lt;p&gt;As I embark on the next phase of my career, I am seeking opportunities to leverage my research and industry experience to drive innovation and tackle complex technological challenges. I am open to collaboration and excited to contribute to projects that push technological boundaries and create meaningful impact. Please connect or message me to discuss potential collaborations or job openings.&lt;/p&gt;
+&lt;p&gt;I completed my PhD at Aarhus University&amp;rsquo;s &lt;a href=&#34;https://btech.au.dk/en/research/research-sections-and-centres/engtech/labs/the-extended-reality-and-robotics-lab/&#34;&gt;Extended Reality and Robotics lab, Aarhus University&lt;/a&gt;, my research focused on immersive virtual reality, haptics, biosignals, and learning analytics for effective skill training systems. At Aarhus University, I have also developed multiuser virtual environments to support teaching and have taught graduate-level courses on Python and Machine Learning. Previously, I led the Virtual Reality &amp;amp; Serious Games group at &lt;a href=&#34;http://ammachilabs.org/&#34;&gt;AMMACHI labs&lt;/a&gt;, where I developed and led various virtual reality training solutions for clients such as the Indian government and companies like Larsen &amp;amp; Toubro.&lt;/p&gt;
 </description>
     </item>
     

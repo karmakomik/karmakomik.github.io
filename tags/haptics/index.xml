@@ -1,16 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haptics | Unnikrishnan R</title>
+    <title>Haptics | </title>
     <link>/tags/haptics/</link>
       <atom:link href="/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
     <description>Haptics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2023</copyright><lastBuildDate>Sat, 26 Oct 2019 20:46:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2024</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haptics</title>
       <link>/tags/haptics/</link>
     </image>
+    
+    <item>
+      <title>Fine Motor Skill Training in VR</title>
+      <link>/project/industrialskillstraining/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>/project/industrialskillstraining/</guid>
+      <description>&lt;p&gt;As part of my PhD dissertation, I explored the use of immersive virtual reality (VR) for fine motor skills training by creating a test bed based on the buzz-wire game. The VR training was first experimentally validated to be as effective as an identical physical training setup. This research also explored the link between the effectivness of training and arousal (stress) levels detected through skin conductance (Shimmer GSR+) and heart rate variability (Polar H10) sensors. Subsequently, the influence of haptic feedback was investigated by adding directional vibration feedback and kinesthetic feedback to the VR training setup using a customized Geomagic Touch. The final part of the project investigated the effect of adaptive training, where the difficulty of the training was adjusted based on the performance and self-confidence of the trainee.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DlZ1-_XerL0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;BuzzwireHaptics.gif&#34; &gt;
+
+&lt;img src=&#34;BuzzwireHaptics.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Motor skill training with haptic feedback&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;BuzzwireAdaptSpeed.gif&#34; &gt;
+
+&lt;img src=&#34;BuzzwireAdaptSpeed.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Adaptive training - speed focused&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;BuzzwireAdaptAccuracy.gif&#34; &gt;
+
+&lt;img src=&#34;BuzzwireAdaptAccuracy.gif&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Adaptive training - accuracy focused&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Skill training simulators for plumbing &amp; carpentry</title>

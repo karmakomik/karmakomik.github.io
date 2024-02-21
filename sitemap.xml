@@ -7,13 +7,58 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/claudio-pacchierotti/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francesco-chinello/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/unnikrishnan-2023-buzzwire-3/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/konstantinos-koumaditis/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lisheng-kuang/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r-unnikrishnan/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,7 +67,7 @@
   </url>
   
   <url>
-    <loc>/authors/francesco-chinello/</loc>
+    <loc>/tags/haptics/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,37 +77,12 @@
   </url>
   
   <url>
-    <loc>/authors/konstantinos-koumaditis/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r-unnikrishnan/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,11 +149,6 @@
   <url>
     <loc>/project/kappa/</loc>
     <lastmod>2019-10-26T21:46:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/haptics/</loc>
-    <lastmod>2019-10-26T20:46:32+05:30</lastmod>
   </url>
   
   <url>
