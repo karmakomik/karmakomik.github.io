@@ -27,7 +27,7 @@
     </item>
     
     <item>
-      <title>Games for computational thinking</title>
+      <title>Games to teach programming</title>
       <link>/project/hms/</link>
       <pubDate>Sat, 26 Oct 2019 19:45:36 +0530</pubDate>
       <guid>/project/hms/</guid>
@@ -40,9 +40,9 @@
 
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/hms6.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./hmspics/hms6.png&#34; &gt;
 
-&lt;img src=&#34;/img/hms6.jpg&#34; &gt;
+&lt;img src=&#34;./hmspics/hms6.png&#34; &gt;
 &lt;/a&gt;
 
 
@@ -54,7 +54,8 @@
 &lt;/figure&gt;
 
 &lt;p&gt;The game subscribes to Seymour Papert’s idea of educational tools needing to have “low floors” i.e the game should accessible by almost anyone with no demand for prior computing experience. The symbolic language and metaphors were designed on the ground with feedback from users on the field.&lt;/p&gt;
-&lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment, where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
+&lt;p&gt;The HMS board game is presently being augmented with a PC/Mobile phone game environment (see pictures below), where children are gradually introduced to advanced programming media, being able to program a virtual elephant using Google’s Blockly visual programming environment and the Python language for more advanced learners.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hms2.gif&#34; alt=&#34;alt text&#34;&gt; &lt;img src=&#34;hmspython.gif&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
